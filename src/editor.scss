@@ -1,3 +1,14 @@
 .wp-block-xwp-country-card .components-form-token-field__suggestion {
 	white-space: pre-wrap;
 }
+
+.editor-styles-wrapper .xwp-country-card__related-post a.xwp-country-card__related-post-link {
+	color: #000;
+}
+
+.editor-styles-wrapper .xwp-country-card__related-post h3,
+.editor-styles-wrapper .xwp-country-card__related-post h4,
+.editor-styles-wrapper .xwp-country-card__related-post h5,
+.editor-styles-wrapper .xwp-country-card__related-post strong {
+	font-weight: 300;
+}
